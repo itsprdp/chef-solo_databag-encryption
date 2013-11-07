@@ -1,0 +1,10 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.0"
+    },
+    "databag_cook": {
+      "path": "./cookbooks/databag_cook"
+    }
+  }
+}
